@@ -92,9 +92,6 @@ Go Live
 ---
 
 ## 📸 Demo & Screenshots
-![5e7fbebe-ed7d-469c-9fdf-cdd073410b02](https://github.com/user-attachments/assets/8511313b-f1ef-4611-ac77-21f559ef118d)
-
-
 ### Landing Page
 ![5e7fbebe-ed7d-469c-9fdf-cdd073410b02](https://github.com/user-attachments/assets/8511313b-f1ef-4611-ac77-21f559ef118d)
 
